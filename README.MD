@@ -28,7 +28,7 @@ npm start
 
 ### 5. Create a `.env` File
 
-- Add the following environment variables to the `.env.local` file:
+- Add the following environment variables to the `.env` file:
 
   ```bash
   DB_USER=multiVanderDB
