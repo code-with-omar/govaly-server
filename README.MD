@@ -11,7 +11,7 @@ git clone https://github.com/code-with-omar/govaly-server.git
 ### 2.Navigate into the Project Directory
 
 ```bash
-cd govaly-client
+cd govaly-server
 ```
 
 ### 3. Install Dependencies
@@ -35,3 +35,4 @@ npm start
   DB_PASS=Bu4RWmc0jcADU7Gg
   ```
 
+## Or follow the live link: https://govaly.vercel.app/
